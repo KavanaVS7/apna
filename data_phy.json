@@ -1,0 +1,219 @@
+{ 
+    "difficulty" : "easy",
+    "category" : "JEE",
+    "question" : "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?",
+    "options" : ["(a) A screw gauge having 100 divisions in the circular scale and pitch as 1 mm","(b) A screw gauge having 50 divisions in the circular scale and pitch as 1 mm","(c) A meter scale","(d) A vernier calliper where the 10 divisions in vernier scale match with 9 division in the main scale and main scale have 10 divisions in 1 cm"],
+    "answer" : "(d) A vernier calliper where the 10 divisions in vernier scale match with 9 division in the main scale and main scale have 10 divisions in 1 cm",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "JEE",
+    "question" : "A simple pendulum is being used to determine the value of gravitational acceleration g at a certain place. The length of the pendulum is 25.0 cm and a stop watch with 1s resolution measures the time taken for 40 oscillations to be 50 s. The accuracy in g is",
+    "options" : ["(1) 3.40% ","(2) 5.40% ","(3) 4.40%"," (4) 2.40%"],
+    "answer" : " (3)4.40%",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "JEE",
+    "question" : "If the screw on a screw-gauge is given six rotations, it moves by 3 mm on the main scale.If there are 50 divisions on the circular scale the least count of the screw gauge is :",
+    "options" : ["(1) 0.001 mm ","(2) 0.001 cm","(3) 0.02 mm ","(4) 0.01 cm"],
+    "answer" : " (2) 0.001 cm",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "JEE",
+    "question" : "Using screw gauge of pitch 0.1 cm and 50 divisions on its circular scale, the thickness of an object is measured. It should correctly be recorded as :",
+    "options" : ["(1) 2.123 cm","(2) 2.125 cm","(3) 2.121 cm","(4) 2.124 cm"],
+    "answer" : " (4) 2.124 cm",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "JEE",
+    "question":"A screw gauge has 50 divisions on its circular scale. The circular scale is 4 units ahead of the pitch scale marking,prior to use. Upon one complete rotation of the circular scale, a displacement of 0.5 mm is noticed on the pitch scale. The nature of zero error involved, and the least count of the screw gauge, are respectively:",
+    "options" : ["(a) Negative, 2 μm","(b) Positive, 10 μm","(c) Positive, 0.1 mm","(d) Positive, 0.1 μm"],
+    "answer" : " (b) Positive, 10 μm",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "JEE",
+    "question":"A student measuring the diameter of a pencil of circular cross-section with the help of a vernier scale records the following four readings 5.50 mm, 5.55 mm, 5.45 mm, 5.65 mm, The average of these four reading is 5.5375 mm and the standard deviation of the data is 0.07395 mm. The average diameter of the pencil should therefore be recorded as:",
+    "options" : ["(a) (5.5375±0.0739)mm","(b) (5.5375±0.0740)mm","(c) (5.538±0.074)mm","(d) (5.54±0.07)mm"],
+    "answer" : " (d) (5.54±0.07)mm",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "JEE",
+    "question":"The least count of the main scale of a screw gauge is 1 mm. The minimum number of divisions on its circular scale required to measure 5 μm diameter of a wire is:",
+    "options" : ["(a) 50","(b) 200","(c) 100","(d) 500"],
+    "answer" : " (b) 200",
+    "subject" : "Physics",
+    "chapter" : "Units,dimensions and measurements"
+
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"The pitch and the number of divisions, on the circular scale for a given screw gauge are 0.5 mm and 100 respectively. When the screw gauge is fully tightened without any object, the zero of its circular scale lies 3 division below the mean line. 
+    The readings of the main scale and the circular scale, for a thin sheet, are 5.5 mm and 48 respectively, the thickness of the sheet is:",
+    "options":["(a) 5.755mm","(b) 5.950mm","(c) 5.725mm","(d) 5.740mm"],
+    "answer":"(c) 5.725mm",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1 %, the maximum error in determining the density is:",
+    "options":["a) 2.5% ","(b) 3.5%","(c) 4.5%","(d) 6%"],
+    "answer":"(c) 4.5%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"In a screw gauge, 5 complete rotations of the screw cause it to move a linear distance of0.25 cm. There are 100 circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of 4 main scale divisions and 30 circular scale divisions. 
+    Assuming negligible zero error, the thickness of the wire is:",
+    "options":["(a) 0.0430 cm","(b) 0.3150 cm","(c) 0.4300 cm","(d) 0.2150 cm"],
+    "answer":"(d) 0.2150 cm",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"hard",
+    "category":"JEE",
+    "question":"A person measures the depth of a well by measuring the time interval between dropping a stone and receiving the sound of impact with the bottom of the well. The error in his measurement of time is BT= 0.01 seconds and he measures the depth of the well to be L = 20 meters. Take the acceleration due to gravity g = 10 ms-2 and the velocity of sound is 300 ms-1. 
+    Then the fractional error in the measurement, BL/L, is closest to",
+    "options":["(a) 0.2%","b) 1 % ","(c) 3% ","(d) 5%"],
+    "answer":"b) 1%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"easy",
+    "category":"JEE",
+    "question":"A student measures the time period of 100 oscillations of a simple pendulum four times. The data set is 90 s, 91 s, 95 s, and 92 s. 
+    If the minimum division in the measuring clock is 1 s, then the reported mean time should be:",
+    "options":["(a) 92 ± 1.8s","(b) 92 ± 3s","(c) 92 ± 1.5s","(d) 92 ± 5.0s"],
+    "answer":"(c) 92 ± 1.5s",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"easy",
+    "category":"JEE",
+    "question":"In the experiment of calibration of voltmeter, a standard cell of e.m.f  1.1 volt is balanced against 440 cm of potential wire. The potential difference across the ends of resistance is found to balance against 220 cm of the wire. The corresponding reading of voltmeter is 0.5 volt. 
+    The error in the reading of voltmeter will be:",
+    "options":["(a) -0.15 volt","(b) 0.15 volt","(c) 0.5 volt","(d) -0.05 volt"],
+    "answer":"(d) -0.05 volt",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"hard",
+    "category":"JEE",
+    "question":"An experiment is performed to obtain the value of acceleration due to gravity g by using a simple pendulum of length L. In this experiment time for 100 oscillations is measured by using a watch of 1 second least count and the value is 90.0 seconds. The length Lis measured by using a meter scale ofleast count 1 mm and the value is 20.0 cm. 
+    The error in the determination of g would be:",
+    "options":["a) 1.7%","(b) 2.7%","(c) 4.4%","(d) 227%"],
+    "answer":"(b) 2.7%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"The density of a solid ball is to be determined in an experiment. The diameter of the ball is measured with a screw gauge, whose pitch is 0.5 mm and there are 50 divisions on the circular scale. The reading on the main scale is 2.5 mm and that on the circular scale is 20 divisions.
+     If the measured mass of the ball has a relative error of 2 %, the relative percentage error in the density is",
+    "options":["(a) 0.9%","(b) 2.4%","(c) 3.1 %","(d) 4.2%"],
+    "answer":"(c)3.1%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"easy",
+    "category":"JEE",
+    "question":"A vernier calipers has 1 mm marks on the main scale. It has 20 equal divisions on the Vernier scale which match with 16 main scale divisions. 
+    For this Vernier calipers, the least count is",
+    "options":["(a) 0.02 mm","(b) 0.05 mm","(c) 0.1 mm","(d) 0.8 mm"],
+    "answer":"(d) 0.8 mm",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"A certain body weights 22.42 gm and has a measured volume of 4.7 cc. The possible error in the measurement of mass and volume are 0.01 gm and 0.1 cc. 
+    Then maximum error in the density will be",
+    "options":["a. 22%","b. 2%","c. 0.2%","d. 0.02%"],
+    "answer":"b. 2%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"If the error in the measurement of radius of a sphere is 2 %, then the error in the determination of volume of the sphere will be",
+    "options":["a. 4%","b. 6%","c. 8%","d. 2%"],
+    "answer":"b. 6%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"medium",
+    "category":"JEE",
+    "question":"The percentage errors in the measurements of mass and speed are 2% and 3% respectively. 
+    The error in kinetic energy obtained by measuring mass and speed will be",
+    "options":["a. 12%","b. 10%","c. 8%","d. 2%"],
+    "answer":"c. 8%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"easy",
+    "category":"JEE",
+    "question":" The least count of a stop watch is 0.2 s. The time of 20 oscillations of a pendulum is measured to be 25 s. 
+    The percentage error in the time period is",
+    "options":["a. 1.2%","b. 0.8%","c. 1.8%","d. None of these"],
+    "answer":"b. 0.8%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+{
+    "difficulty":"hard",
+    "category":"JEE",
+    "question":"The length of a simple pendulum is about 100 cm known to have an accuracy of 1 mm. Its period of oscillation is 2 s determined by measuring the time for 100 oscillations using a clock of 0.1 s resolution. 
+    What is the accuracy in the determined value of g (acceleration due to gravity)",
+    "options":["a. 0.2%","b. 0.5 %","c. 0.1 %","d. 2 %"],
+    "answer":"a. 0.2%",
+    "subject":"Physics",
+    "chapter":"Units,dimensions and measurements",
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

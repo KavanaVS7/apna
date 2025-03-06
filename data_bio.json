@@ -1,0 +1,180 @@
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "The total heat content of a system is",
+    "options" : ["Entropy","Enthalpy","Free energy ","Kinetic  energy"],
+    "answer" : "Enthalpy",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Compared to genus, which of the following is less general in characters?",
+    "options" : ["Family ","Species","pision","Class"],
+    "answer" : "Species",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "In ATP high energy bond is present",
+    "options" : ["Between nucleoside and phosphate group","Between sugar and phosphate group","Between base(Adenine) and phosphate group","None"],
+    "answer" : "None",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "KCET",
+    "question" : "The bond formed between the first phosphate group and adenosine in ATP is",
+    "options" : ["Phosphoester bond","Adenophosphate bond","Nitrophosphate bond","Phosphoanhydride bond"],
+    "answer" : "Adenophosphate bond",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Who proposed the Binomial Nomenclature System",
+    "options" : ["Whittaker","Mendel","Carl Linnaeus","Tippo"],
+    "answer" : "Carl Linnaeus",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "medium",
+    "category" : "KCET",
+    "question" : "Who did propose natural classifications of plants",
+    "options" : ["Carl Linnaeus","John Hutchinson","Bentham and Hooker","Oswald Tippo"],
+    "answer" : "Bentham and Hooker",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Identify from the following ,the only taxonomic category that has a real existence",
+    "options" : ["Genus","Species","Phylum","Kingdom"],
+    "answer" : "Species",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "The common characteristics between tomato and potato will be maximum at the level of their",
+    "options" : ["Family","Order","Division","Genus"],
+    "answer" : "Family",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "The term species was coined by",
+    "options" : ["Aristotle","Engler","John Ray","Linnaeus"],
+    "answer" : "John Ray",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "What is correct",
+    "options" : ["Apis indica","trypanosoma gambiense","Ficus Bengalenis","Mangifera indica"],
+    "answer" : "Mangifera indica",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "A group of plants and animals with similar traits of any rank is",
+    "options" : ["Taxon","Species","Genus","Order"],
+    "answer" : "Taxon",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Which is less general in characters as compared to genus",
+    "options" : ["Family","Species","Division","Class"],
+    "answer" : "Species",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "The process of grouping organisms based on similarities and evolutionary relationships is known as",
+    "options" : ["Classification","Nomenclature","Identification","Taxonomy"],
+    "answer" : "Taxonomy",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Which of the following term is used to refer the number of varieties of plants and animals on earth",
+    "options" : [" Taxonomy","Identification","Biodiversity","Classification"],
+    "answer" : "Biodiversity",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Binomial nomenclature meanss",
+    "options" : ["one name given by two scientists","one scientific name consisting of a generic and specific epithet","two names, one latinized, other of a person","two names of same plant."],
+    "answer" : "one scientific name consisting of a generic and specific epithet",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "The famous botanical garden ‘Kew’ is located in",
+    "options" : ["Lucknow","England","Australia","Berlin"],
+    "answer" : "England",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Keys are generally _______in nature.",
+    "options" : ["Analytical","Physical","Chemical","Qualitative"],
+    "answer" : "Analytical",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "Each category of taxonomic hierarchy refers to as a unit of______",
+    "options" : ["systematic","identification","nomenclature","classification"],
+    "answer" : "classification",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : "What are the twin characteristics of growth?",
+    "options" : ["increase in mass","increase in number","Both 1 and 2","none of the above"],
+    "answer" : "Both 1 and 2",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
+{ 
+    "difficulty" : "easy",
+    "category" : "KCET",
+    "question" : " Living organisms can be unexceptionally distinguished from nonliving things based on their ability for",
+    "options" : ["responsiveness to touch","reproduction","interaction with the environment and progressive evolution","growth and movement"],
+    "answer" : "interaction with the environment and progressive evolution",
+    "subject" : "Biology",
+    "chapter" : "The living world"
+}
